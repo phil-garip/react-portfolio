@@ -1,0 +1,9 @@
+.footer {
+    padding: 5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.foot-list {
+    list-style: none;
+}

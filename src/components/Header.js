@@ -2,12 +2,10 @@ import React from 'react';
 import Navigation from './Navigation'
 
 function Header() {
-    const text = 'head test'
 
     return (
-        <div className="jumbotron">
-            {text}
-            <Navigation />
+        <div className="header">
+            <h1>Phil Garip</h1>
         </div>
     )
 }
